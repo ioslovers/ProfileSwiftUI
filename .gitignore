@@ -1,0 +1,5 @@
+*.xcworkspacedata
+*.xcuserstate
+*.xcbkptlist
+*.xcworkspace/contents.xcworkspacedata
+IDEWorkspaceChecks.plist
